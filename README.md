@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-🌱 I’m currently learning JS and Python 🐍
+🌱 I’m currently learning JS
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
