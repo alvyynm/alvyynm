@@ -4,6 +4,10 @@
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
+### Cool projects I've worked on
+
+- (Snap website)[https://alvyynm.github.io/snap-website/] || HTML, CSS and vanilla JS
+
 <!--
 **alvyynm/alvyynm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
