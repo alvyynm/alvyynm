@@ -10,6 +10,15 @@
 - [Huddle landing page](https://alvyynm.github.io/huddle-landing-page/) || HTML and CSS
 - [Elvira portfolio site](https://whimsical-bunny-f4ba8c.netlify.app) || HTML, Sass, and JS
 
+### Tools and Languages 👇
+- JS
+- React js
+- Python
+- HTML
+- CSS, Sass
+- SQL
+- Git and GitHub
+
 <!--
 **alvyynm/alvyynm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
