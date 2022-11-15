@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-🌱 I’m currently learning JS
+🌱 I’m currently learning React JS
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
@@ -9,6 +9,8 @@
 - [Snap website](https://alvyynm.github.io/snap-website/) || HTML, CSS and vanilla JS
 - [Huddle landing page](https://alvyynm.github.io/huddle-landing-page/) || HTML and CSS
 - [Elvira portfolio site](https://whimsical-bunny-f4ba8c.netlify.app) || HTML, Sass, and JS
+- [Linktree Clone](https://timely-lokum-ac4488.netlify.app/) || React js, vanilla CSS
+- [Metabnb website](https://sweet-eclair-8b9ab0.netlify.app/) || React js (with React Router) and Tailwind CSS
 
 ### Tools and Languages 👇
 - JS
