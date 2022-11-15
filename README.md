@@ -16,6 +16,7 @@
 - Python
 - HTML
 - CSS, Sass
+- Tailwind css
 - SQL
 - Git and GitHub
 
