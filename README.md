@@ -6,6 +6,7 @@
 
 ### Cool projects I've worked on
 
+- [Certgo](https://certgo.app) || React js (with React Router), SCSS, and Node
 - [Snap website](https://alvyynm.github.io/snap-website/) || HTML, CSS and vanilla JS
 - [Huddle landing page](https://alvyynm.github.io/huddle-landing-page/) || HTML and CSS
 - [Elvira portfolio site](https://whimsical-bunny-f4ba8c.netlify.app) || HTML, Sass, and JS
