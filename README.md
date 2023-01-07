@@ -7,8 +7,8 @@
 ### Cool projects I've worked on
 
 - [Certgo](https://certgo.app) || React js (with React Router), SCSS, and Node
+- [Rest countries API](https://comforting-sunflower-2202ca.netlify.app/) || React js (with React Router), Context API, and Tailwind - [source code](https://github.com/alvyynm/frontendmentor-challenges/tree/main/12-rest-countries-api)
 - [Snap website](https://alvyynm.github.io/snap-website/) || HTML, CSS and vanilla JS
-- [Huddle landing page](https://alvyynm.github.io/huddle-landing-page/) || HTML and CSS
 - [Elvira portfolio site](https://whimsical-bunny-f4ba8c.netlify.app) || HTML, Sass, and JS
 - [Linktree Clone](https://timely-lokum-ac4488.netlify.app/) || React js, vanilla CSS
 - [Metabnb website](https://sweet-eclair-8b9ab0.netlify.app/) || React js (with React Router) and Tailwind CSS
