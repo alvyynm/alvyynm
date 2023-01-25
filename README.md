@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-🌱 I’m currently learning React JS
+🌱 I’m currently learning fullstack JS development with the MERN stack
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
