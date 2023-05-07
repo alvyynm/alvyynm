@@ -1,24 +1,24 @@
 ### Hi there, I'm Alvin 👋
 
-🌱 I’m currently learning fullstack JS development with the MERN stack
+A fullstack engineer and writer.
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
 ### Cool projects I've worked on
 
-- [Certgo](https://certgo.app) || React js (with React Router), SCSS, and Node
-- [Rest countries API](https://comforting-sunflower-2202ca.netlify.app/) || React js (with React Router), Context API, and Tailwind - [source code](https://github.com/alvyynm/frontendmentor-challenges/tree/main/12-rest-countries-api)
+- [Certgo](https://certgo.app)
+- [Shrtli.com](https://shrtli.com/)
 
 ### Tools and Languages 👇
 - JS
 - React js
+- Astro
 - Express
-- HTML
-- CSS, Sass
-- Tailwind css
+- HTML, CSS (vanilla, Sass, Tailwind css)
 - SQL + NoSQL (mongoDB)
 - Git and GitHub
 
+[![wakatime](https://wakatime.com/badge/user/5a2dda22-edd0-469e-b9ca-93b0efdfb017.svg)](https://wakatime.com/@5a2dda22-edd0-469e-b9ca-93b0efdfb017)
 <!--
 **alvyynm/alvyynm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
