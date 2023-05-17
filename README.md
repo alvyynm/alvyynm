@@ -10,9 +10,10 @@ A fullstack engineer and writer.
 - [Shrtli.com](https://shrtli.com/)
 
 ### Tools and Languages 👇
-- JS
+- JS / TypeScript
 - React js
 - Astro
+- Node
 - Express
 - HTML, CSS (vanilla, Sass, Tailwind css)
 - SQL + NoSQL (mongoDB)
