@@ -11,7 +11,7 @@ A fullstack engineer and writer.
 
 ### Tools and Languages 👇
 - JS / TypeScript
-- React js
+- React js 
 - Astro
 - Node
 - Express
