@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin 👋
 
-A fullstack engineer and writer.
+A software engineer and technical writer.
 
 📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
 
@@ -8,16 +8,6 @@ A fullstack engineer and writer.
 
 - [Certgo](https://certgo.app)
 - [Shrtli.com](https://shrtli.com/)
-
-### Tools and Languages 👇
-- JS / TypeScript
-- React js 
-- Astro
-- Node
-- Express
-- HTML, CSS (vanilla, Sass, Tailwind css)
-- SQL + NoSQL (mongoDB)
-- Git and GitHub
 
 [![wakatime](https://wakatime.com/badge/user/5a2dda22-edd0-469e-b9ca-93b0efdfb017.svg)](https://wakatime.com/@5a2dda22-edd0-469e-b9ca-93b0efdfb017)
 <!--
