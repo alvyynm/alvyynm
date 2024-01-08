@@ -6,8 +6,10 @@ A software engineer and technical writer.
 
 ### Cool projects I've worked on
 
-- [Certgo](https://certgo.app)
-- [Shrtli.com](https://shrtli.com/)
+- [Certgo](https://certgo.app) - app
+- [Shrtli.com](https://shrtli.com/) - app
+- [Elvira website](https://whimsical-bunny-f4ba8c.netlify.app/) - static
+- [Metabnb](https://sweet-eclair-8b9ab0.netlify.app/) - static
 
 [![wakatime](https://wakatime.com/badge/user/5a2dda22-edd0-469e-b9ca-93b0efdfb017.svg)](https://wakatime.com/@5a2dda22-edd0-469e-b9ca-93b0efdfb017)
 <!--
