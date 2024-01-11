@@ -2,7 +2,7 @@
 
 A software engineer and technical writer.
 
-📫 How to reach me: [@alvyynm](https://twitter.com/alvyynm)
+📫 How to reach me: hi.alvinwanjala@gmail.com
 
 ### Cool projects I've worked on
 
