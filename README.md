@@ -2,7 +2,6 @@
 <h3 align="center">A software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alvyynm&label=Profile%20views&color=0e75b6&style=flat" alt="alvyynm" /> </p>
-<p align="center"><img src="https://wakatime.com/badge/user/5a2dda22-edd0-469e-b9ca-93b0efdfb017.svg" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
